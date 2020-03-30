@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3944546521.index
+\SoapTest\src
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3677808221.index
+\DxcTestService\src
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2930342611.index
+\DxcTestService\src
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1425915213.index
+\DxcTestService\src
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\415325110.index
+\DxcTestService\src
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3059183264.index
+\SoapTest\src
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3443366776.index
+\SoapTest\src
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2905356755.index
+\SoapTest\src
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3018863899.index
+\DxcTestService\src
+C:\Users\muril\Documents\Dev\ws-java\Course Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1243722117.index
+\SoapTest\src

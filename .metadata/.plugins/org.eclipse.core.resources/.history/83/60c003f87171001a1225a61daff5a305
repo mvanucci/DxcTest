@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- This file was auto-generated from WSDL --><!-- by the Apache Axis2 version: 1.7.9  Built on : Nov 16, 2018 (12:05:37 GMT) --><serviceGroup>
+    <service name="BookService">
+        <messageReceivers>
+            <messageReceiver mep="http://www.w3.org/ns/wsdl/in-out" class="in.benchresources.services.bookservice.BookServiceMessageReceiverInOut"/>
+        </messageReceivers>
+        <parameter name="ServiceClass">in.benchresources.services.bookservice.BookServiceSkeleton</parameter>
+        <parameter name="useOriginalwsdl">true</parameter>
+        <parameter name="modifyUserWSDLPortAddress">true</parameter>
+        <operation name="getBookByISDNRequestNumber" mep="http://www.w3.org/ns/wsdl/in-out" namespace="http://benchresources.in/services/BookService/">
+            <actionMapping>http://benchresources.in/services/BookService/IBookService/getBookByISDNRequestNumberRequest</actionMapping>
+            <outputActionMapping>http://benchresources.in/services/BookService/IBookService/getBookByISDNRequestNumberResponse</outputActionMapping>
+        </operation>
+        <operation name="getBookDetailsByBookName" mep="http://www.w3.org/ns/wsdl/in-out" namespace="http://benchresources.in/services/BookService/">
+            <actionMapping>http://benchresources.in/services/BookService/IBookService/getBookDetailsByBookNameRequest</actionMapping>
+            <outputActionMapping>http://benchresources.in/services/BookService/IBookService/getBookDetailsByBookNameResponse</outputActionMapping>
+        </operation>
+    </service>
+</serviceGroup>
